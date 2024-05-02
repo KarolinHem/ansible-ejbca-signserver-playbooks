@@ -18,6 +18,8 @@
 # Ansible Playbooks for EJBCA and SignServer 
 [![Discuss](https://img.shields.io/badge/discuss-ejbca-ce?style=flat)](https://github.com/Keyfactor/ansible-ejbca-signserver-playbooks/discussions) 
 
+TEMP
+
 This is a collection of Ansible playbooks to use with EJBCA, SignServer, and integrations. Both Community and Enterprise versions of EJBCA are supported. By using these Ansible playbooks you can easily get EJBCA or SignServer up and running, including a complete technology stack with Java 11, Apache HTTPD, Maria DB, SoftHSM, and Wildfly.
 
 ## Available playbooks 
